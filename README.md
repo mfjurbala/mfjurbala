@@ -1,6 +1,14 @@
-### Hi there 👋
+I've decided that I want to be a better advocate for FOSS so:
+
+I'll be on Codeberg with [mfjurbala](https://codeberg.org/mfjurbala) but keep GitHub for collaboration with projects and people here too.
+
+I'm also swithcing to Mastodon with [@mfjurbala@mastodon.online](https://mastodon.online/@mfjurbala) but still might ocassionally use Twitter.
+
+I am sometimes on Element under [@mfjurbala:matrix.org](https://element.io/).
 
 <!--
+### Hi there 👋
+
 **mfjurbala/mfjurbala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
