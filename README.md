@@ -1,8 +1,6 @@
-I've decided that I want to be a better advocate for FOSS so:
+I think leaving Github will hinder contributing to existing FOSS projects and reduce potential networking. So, I'm back. I'm still on Codeberg with [mfjurbala](https://codeberg.org/mfjurbala) but may not put anything significant there for the time being.
 
-I'll be on Codeberg with [mfjurbala](https://codeberg.org/mfjurbala) but keep GitHub for collaboration with projects and people here too.
-
-I'm also swithcing to Mastodon with [@mfjurbala@mastodon.online](https://mastodon.online/@mfjurbala) but still might ocassionally use Twitter.
+I also use both Mastodon with [@mfjurbala@mastodon.online](https://mastodon.online/@mfjurbala) and twitter with [@mfjurbala](https://twitter.com/mfjurbala). I'm not a huge user of social media though.
 
 I am sometimes on Element under [@mfjurbala:matrix.org](https://element.io/).
 
